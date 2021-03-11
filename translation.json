@@ -103,7 +103,7 @@
     "liveStats" : "live stats",
     "matchNotStarted" : "match has not started",
     "teamPerformance": "team performance",
-    "timeline": "timeline",
+    "timeline": "Timeline",
     "mapSupportComingSoon": "map support coming soon",
     "matchHasEnded" : "match has ended",
     "resetFilters" : "Reset filters",
@@ -124,5 +124,18 @@
     "gpm": "GPM",
     "cspm": "CSPM",
     "ready": "ready",
-    "loadMore": "load more"
+    "loadMore": "load more",
+    "missingClientId": "Client ID missing. You cannot use this widget without a client id.",
+    "fixtureNotAvailable": "Fixture is not available right now or has a problem.",
+    "noTournamentsForFilter": "No Tournaments for preset tournament filter found. Please recheck your widget configuration",
+    "noUpcomingMatches": "There are no upcoming {{title}} matches scheduled right now.",
+    "noResults":"There are no {{title}} results available right now.",
+    "noTournamentsForPreset": "No Tournaments for preset tournament filter found. Please recheck your widget configuration!",
+    "nothingToShow": "Nothing to show right now",
+    "betNow": "BET NOW",
+    "live": "live",
+    "match": "Match",
+    "objectives": "Objectives",
+    "players": "Players",
+    "teams": "Teams"
 }
